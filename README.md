@@ -1,2 +1,2 @@
 # Praktikum-Pola-KOM622
-Topik dalam Pengenalan Pola
+KOM622 Topik dalam Pengenalan Pola
